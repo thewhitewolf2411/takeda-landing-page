@@ -32,11 +32,16 @@ export default class Main extends React.Component{
                                     Quisque semper tempus odio id ornare. Phasellus id nibh diam. Phasellus tortor ante, accumsan a elit eget, interdum vulputate urna. Donec fermentum ex sit amet risus interdum, ac tempor tortor ullamcorper. Nunc id tellus vitae dui aliquam aliquet. Integer sagittis laoreet erat sed ornare. Integer sed ante porta, rhoncus orci nec, dignissim tortor. Quisque eget risus viverra, molestie elit ac, convallis neque. Quisque nulla orci, faucibus sit amet tortor vitae, accumsan condimentum mi. Etiam non arcu fermentum, porta justo ut, convallis est. Suspendisse nunc sem, scelerisque in mauris non, eleifend iaculis leo. Phasellus eget magna id neque ultrices auctor. Proin aliquam auctor sem, eget eleifend nisl volutpat non. Ut sit amet bibendum nisl. Mauris et mauris massa.
                                 </p>
 
-                                <img className="facebook-frame" src={facebookFrame} alt="facebook_frame"></img>
+                                
 
-                                <h1 className="article-title mt-4">
-                                    ISKORISTI FACEBOOK OKVIR
-                                </h1>
+                                <a href="https://www.facebook.com/profilepicframes/?selected_overlay_id=858439131406748" target="_blank" className="d-flex flex-column align-items-center">
+                                    <img className="facebook-frame" src={facebookFrame} alt="facebook_frame"></img>
+
+                                    <h1 className="article-title mt-4">
+                                        ISKORISTI FACEBOOK OKVIR
+                                    </h1>
+                                </a>
+
                             </div>
                         </section>
     
