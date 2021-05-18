@@ -17,10 +17,10 @@ export default class Footer extends React.Component {
                             <p className="mb-0">TAKEDA PHARMACEUTICALS BH D.O.O., VRBANJA 1.,<br></br>71000 SARAJEVO, DATUM PRIPREME: MAJ 2021.</p>
                         </div>
                         <div className="col-md-4 mobile-col d-flex justify-content-center">
-                            <img className="footer-image-cumc" src={logo2} />
+                            <img className="footer-image-cumc" src={logo2} alt="cumc_logo"/>
                         </div>
                         <div className="col-md-4 mobile-col d-flex align-items-end justify-content-end">
-                            <img className="footer-image-takeda" src={logo1} />
+                            <img className="footer-image-takeda" src={logo1} alt="takeda_logo"/>
                         </div>
                     </div>
 

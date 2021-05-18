@@ -13,7 +13,7 @@ export default class Header extends React.Component{
                   <h1 className="main-title">PREKINIMO ŠUTNJU!</h1>
                 </div>
 
-                <img src={Takeda01Img}></img>
+                <img src={Takeda01Img} alt="background_image"></img>
                 <h3 className="secondary-title">#PREKINIMOŠUTNJU #BREAKTHESILENCE</h3>
 
                 <h1 className="main-title mt-3">19. MAJ <br></br> SVJETSKI DAN OBOLJELIH<br></br>OD UPALNIH CRIJEVA</h1>
